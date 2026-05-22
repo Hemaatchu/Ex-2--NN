@@ -1,6 +1,5 @@
 <H3>Name         : Hemavathy S</H3>
 <H3>Register no  : 212223230076</H3>
-<H3>Date         : 20-05-2026</H3>
 <H3>Experiment No: 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
